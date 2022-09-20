@@ -2,7 +2,6 @@ package calculadorcita;
 
 import java.util.Random;
 import javax.swing.JOptionPane;
-import calculadorcita.Menu;
 /**
  *
  * @author Dirley Puentes && Yessid Murcia
