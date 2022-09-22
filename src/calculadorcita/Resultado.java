@@ -4,7 +4,7 @@ import java.awt.Color;
 import javax.swing.BorderFactory;
 /**
  *
- * @author Dirley Puentes && Yessid Murcia
+ * @author Yessid Murcia
  */
 public class Resultado extends javax.swing.JDialog {
 
