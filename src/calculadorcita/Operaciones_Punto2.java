@@ -2,7 +2,7 @@ package calculadorcita;
 
 /**
  *
- * @author Dirley Puentes && Yessid Murcia
+ * @author Yessid Murcia
  */
 public class Operaciones_Punto2 implements Numero {
 

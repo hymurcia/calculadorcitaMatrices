@@ -7,7 +7,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author Dirley Puentes && Yessid Murcia
+ * @author Yessid Murcia
  */
 public class Matriz_Resta extends javax.swing.JFrame {
 

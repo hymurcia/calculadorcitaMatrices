@@ -9,7 +9,7 @@ import javax.swing.JTextField;
 
 /**
  * 
- * @author Dirley Puentes && Yessid Murcia
+ * @author Yessid Murcia
  */
 public class JCTextField extends JTextField{
     

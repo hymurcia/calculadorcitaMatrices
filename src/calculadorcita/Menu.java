@@ -4,7 +4,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Dirley Puentes && Yessid Murcia
+ * @author Yessid Murcia
  */
 public class Menu extends javax.swing.JFrame {
 
@@ -371,7 +371,7 @@ public class Menu extends javax.swing.JFrame {
         jLabel8.setFont(new java.awt.Font("Times New Roman", 0, 24)); // NOI18N
         jLabel8.setText("CREDITOS.");
 
-        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/calculadorcita/Dirley & Yessid (1)_page-0001.jpg"))); // NOI18N
+        jLabel10.setIcon(new javax.swing.ImageIcon(getClass().getResource("/calculadorcita/Logo.jpg"))); // NOI18N
 
         javax.swing.GroupLayout jPanel3Layout = new javax.swing.GroupLayout(jPanel3);
         jPanel3.setLayout(jPanel3Layout);

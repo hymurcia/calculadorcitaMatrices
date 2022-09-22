@@ -4,7 +4,7 @@ import java.util.Random;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Dirley Puentes && Yessid Murcia
+ * @author Yessid Murcia
  */
 public class CalculadoraDeMatrices {
 
@@ -61,7 +61,7 @@ public class CalculadoraDeMatrices {
     /**
      * metodo de traza de matrices nxn
      */
-    public int traza(JCTextField[][] matrizA) {
+    public void traza(JCTextField[][] matrizA) {
         int m[][] = new int[matriz.length][matriz.length];
         int r = 0;
         for (int k = 0; k < matriz.length; k++) {
@@ -73,7 +73,6 @@ public class CalculadoraDeMatrices {
             }
         }
         JOptionPane.showMessageDialog(null, "El resultado de la Traza es:" + r);
-        return 0;
     }
 
     public void conversorJCTField(JCTextField[][] matriz, int n) {

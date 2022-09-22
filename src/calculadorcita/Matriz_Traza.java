@@ -5,7 +5,7 @@ import javax.swing.BorderFactory;
 import javax.swing.JPanel;
 /**
  * 
- * @author Dirley Puentes && Yessid Murcia
+ * @author Yessid Murcia
  */
 public class Matriz_Traza extends javax.swing.JFrame {
 
